@@ -1,5 +1,5 @@
 # Movies-ETL
-This analysis is created to provide Amazing Prime with necessary data to to predict low-budget movies that are released or become popular so that they can buy the streaming rights.
+This analysis is created to provide Amazing Prime with necessary data to predict low-budget movies that are released or become popular so that they can buy the streaming rights.
 
 Below are the deliverables;
 
